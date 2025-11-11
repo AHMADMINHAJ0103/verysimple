@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/verysimple/static/css/main.ebb9af75.css",
-    "main.js": "/verysimple/static/js/main.83fe96fc.js",
-    "static/js/453.4b321e51.chunk.js": "/verysimple/static/js/453.4b321e51.chunk.js",
-    "index.html": "/verysimple/index.html",
-    "main.ebb9af75.css.map": "/verysimple/static/css/main.ebb9af75.css.map",
-    "main.83fe96fc.js.map": "/verysimple/static/js/main.83fe96fc.js.map",
-    "453.4b321e51.chunk.js.map": "/verysimple/static/js/453.4b321e51.chunk.js.map"
+    "main.css": "/lastone/static/css/main.9a289f18.css",
+    "main.js": "/lastone/static/js/main.cb1e2f86.js",
+    "index.html": "/lastone/index.html",
+    "main.9a289f18.css.map": "/lastone/static/css/main.9a289f18.css.map",
+    "main.cb1e2f86.js.map": "/lastone/static/js/main.cb1e2f86.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb9af75.css",
-    "static/js/main.83fe96fc.js"
+    "static/css/main.9a289f18.css",
+    "static/js/main.cb1e2f86.js"
   ]
 }
