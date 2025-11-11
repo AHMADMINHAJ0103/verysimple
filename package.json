@@ -2,7 +2,7 @@
   "name": "prootailkwindcopy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AHMADMINHAJ0103.github.io/verysimple",
+  "homepage": "https://ahmadminhaj0103.github.io/verysimple",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
